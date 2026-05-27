@@ -624,12 +624,19 @@
             <option value="" disabled selected>Select your society or group</option>
             <optgroup label="Youth Groups">
               <option>Catholic Youth Organisation (CYO)</option>
-              <option>Youth for Christ (YFC)</option>
-              <option>Junior Catholic Youth Organisation (JCYO)</option>
+              <option>Jubilee Youth Choir(JYC)</option>
+              <option>Knights of the Altar </option>
+              <option>Lectors </option>
+              <option>CASU </option>
+              <option>SVP </option>
+              <option>KSJI </option>
+              <option>KLM </option>
+              <option>Ushers </option>
+
             </optgroup>
             <optgroup label="Societies">
               <option>Knights of St. John International (KSJI)</option>
-              <option>Catholic Women Association (CWA)</option>
+              <option>Christian Mothers</option>
               <option>Legion of Mary</option>
               <option>St. Vincent de Paul Society</option>
               <option>Charismatic Renewal</option>
@@ -695,8 +702,8 @@
   <script>
     // ── CONFIGURATION ────────────────────────────────────────
     // 🔴 REPLACE THIS WITH YOUR DEPLOYED WEB APP URL
-    const SCRIPT_URL = "https://script.google.com/macros/s/YOUR_DEPLOYMENT_ID/exec";
-
+    const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzrVHlzfg_pktFZtIWK0Q1pV9-kxmmeFdE2lS8XEWyViwKn-9AZfiVwVA61IqZvplybwQ/exec";
+    
     // ── QUICK AMOUNT ─────────────────────────────────────────
     function setAmount(val) {
       document.getElementById('amount').value = val;
